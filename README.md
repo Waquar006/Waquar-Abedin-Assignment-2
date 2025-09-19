@@ -12,6 +12,7 @@ Fetches current weather and a forecast weather for up-to 5 days at a specified l
   - Handles invalid inputs, network issues, and API errors.
 
 **Weather NLP Parser & Fetcher**
+
 This allows users to ask conversational questions related to weather and get structured answers. It combines NLP Parsing with real time weather data and context aware conversation processing. 
 
  **Description:**
